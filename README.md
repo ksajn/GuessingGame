@@ -7,4 +7,4 @@ cargo run
 ```
 > and it should work
 >
-> *actually this is my first project in rust*
+> \n*actually this is my first project in rust*
