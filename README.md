@@ -6,5 +6,5 @@ cargo build
 cargo run
 ```
 > and it should work
->
-> \n*actually this is my first project in rust*
+
+*actually this is my first project in rust*
